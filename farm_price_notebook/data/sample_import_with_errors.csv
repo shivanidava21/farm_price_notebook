@@ -1,0 +1,8 @@
+date,produce,category,market,price,notes
+2026-11-25,Cabbage,Vegetable,Bowenpally Market,22,ok row
+2026-11-30,Carrot,Vegetable,Bowenpally Market,40,future date
+2026-11-25,Brinjal,Vegetable,Bowenpally Market,-5,negative price
+2026-11-25,Apple,Gadget,Bowenpally Market,120,bad category
+2026-11-25,,Fruit,Bowenpally Market,80,blank produce
+2026-11-25,Garlic,Spice,Bowenpally Market,abc,non-numeric price
+2026-11-25,Cabbage,Vegetable,Bowenpally Market,23,duplicate of first row

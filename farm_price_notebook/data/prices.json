@@ -1,0 +1,365 @@
+{
+  "schema": "farm-price-notebook/v1",
+  "records": [
+    {
+      "id": 1,
+      "date": "2026-10-28",
+      "produce": "Tomato",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 30.42,
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "date": "2026-11-04",
+      "produce": "Tomato",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 29.72,
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "date": "2026-11-11",
+      "produce": "Tomato",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 31.67,
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "date": "2026-11-18",
+      "produce": "Tomato",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 126.0,
+      "notes": "Edge case: unusual spike"
+    },
+    {
+      "id": 5,
+      "date": "2026-11-25",
+      "produce": "Tomato",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 35.62,
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "date": "2026-10-28",
+      "produce": "Onion",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 0.5,
+      "notes": "Edge case: minimum boundary"
+    },
+    {
+      "id": 7,
+      "date": "2026-11-04",
+      "produce": "Onion",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 30.26,
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "date": "2026-11-11",
+      "produce": "Onion",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 28.99,
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "date": "2026-11-18",
+      "produce": "Onion",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 31.12,
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "date": "2026-11-25",
+      "produce": "Onion",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 30.95,
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "date": "2026-10-28",
+      "produce": "Potato",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 24.3,
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "date": "2026-11-04",
+      "produce": "Potato",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 26.01,
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "date": "2026-11-11",
+      "produce": "Potato",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 25.72,
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "date": "2026-11-18",
+      "produce": "Potato",
+      "category": "Vegetable",
+      "market": "Gaddiannaram Market",
+      "price": 27.16,
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "date": "2026-11-25",
+      "produce": "Potato",
+      "category": "Vegetable",
+      "market": "Bowenpally Market",
+      "price": 29.43,
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "date": "2026-10-28",
+      "produce": "Banana",
+      "category": "Fruit",
+      "market": "Gaddiannaram Market",
+      "price": 55.25,
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "date": "2026-11-04",
+      "produce": "Banana",
+      "category": "Fruit",
+      "market": "Bowenpally Market",
+      "price": 55.6,
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "date": "2026-11-11",
+      "produce": "Banana",
+      "category": "Fruit",
+      "market": "Gaddiannaram Market",
+      "price": 59.93,
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "date": "2026-11-18",
+      "produce": "Banana",
+      "category": "Fruit",
+      "market": "Bowenpally Market",
+      "price": 63.51,
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "date": "2026-11-25",
+      "produce": "Banana",
+      "category": "Fruit",
+      "market": "Gaddiannaram Market",
+      "price": 60.65,
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "date": "2026-10-28",
+      "produce": "Mango",
+      "category": "Fruit",
+      "market": "Bowenpally Market",
+      "price": 92.75,
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "date": "2026-11-04",
+      "produce": "Mango",
+      "category": "Fruit",
+      "market": "Gaddiannaram Market",
+      "price": 95.45,
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "date": "2026-11-11",
+      "produce": "Mango",
+      "category": "Fruit",
+      "market": "Bowenpally Market",
+      "price": 95.65,
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "date": "2026-11-18",
+      "produce": "Mango",
+      "category": "Fruit",
+      "market": "Gaddiannaram Market",
+      "price": 97.33,
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "date": "2026-11-25",
+      "produce": "Mango",
+      "category": "Fruit",
+      "market": "Bowenpally Market",
+      "price": 109.17,
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "date": "2026-10-28",
+      "produce": "Rice",
+      "category": "Grain",
+      "market": "Gaddiannaram Market",
+      "price": 51.15,
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "date": "2026-11-04",
+      "produce": "Rice",
+      "category": "Grain",
+      "market": "Bowenpally Market",
+      "price": 51.88,
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "date": "2026-11-11",
+      "produce": "Rice",
+      "category": "Grain",
+      "market": "Gaddiannaram Market",
+      "price": 53.9,
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "date": "2026-11-18",
+      "produce": "Rice",
+      "category": "Grain",
+      "market": "Bowenpally Market",
+      "price": 60.26,
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "date": "2026-11-25",
+      "produce": "Rice",
+      "category": "Grain",
+      "market": "Gaddiannaram Market",
+      "price": 60.95,
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "date": "2026-10-28",
+      "produce": "Toor Dal",
+      "category": "Pulse",
+      "market": "Bowenpally Market",
+      "price": 144.3,
+      "notes": ""
+    },
+    {
+      "id": 32,
+      "date": "2026-11-04",
+      "produce": "Toor Dal",
+      "category": "Pulse",
+      "market": "Gaddiannaram Market",
+      "price": 148.94,
+      "notes": ""
+    },
+    {
+      "id": 33,
+      "date": "2026-11-11",
+      "produce": "Toor Dal",
+      "category": "Pulse",
+      "market": "Bowenpally Market",
+      "price": 151.75,
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "date": "2026-11-18",
+      "produce": "Toor Dal",
+      "category": "Pulse",
+      "market": "Gaddiannaram Market",
+      "price": 164.22,
+      "notes": ""
+    },
+    {
+      "id": 35,
+      "date": "2026-11-25",
+      "produce": "Toor Dal",
+      "category": "Pulse",
+      "market": "Bowenpally Market",
+      "price": 160.43,
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "date": "2026-10-28",
+      "produce": "Green Chilli",
+      "category": "Spice",
+      "market": "Gaddiannaram Market",
+      "price": 60.31,
+      "notes": ""
+    },
+    {
+      "id": 37,
+      "date": "2026-11-04",
+      "produce": "Green Chilli",
+      "category": "Spice",
+      "market": "Bowenpally Market",
+      "price": 64.46,
+      "notes": ""
+    },
+    {
+      "id": 38,
+      "date": "2026-11-11",
+      "produce": "Green Chilli",
+      "category": "Spice",
+      "market": "Gaddiannaram Market",
+      "price": 65.57,
+      "notes": ""
+    },
+    {
+      "id": 39,
+      "date": "2026-11-18",
+      "produce": "Green Chilli",
+      "category": "Spice",
+      "market": "Bowenpally Market",
+      "price": 69.63,
+      "notes": ""
+    },
+    {
+      "id": 40,
+      "date": "2026-11-25",
+      "produce": "Green Chilli",
+      "category": "Spice",
+      "market": "Gaddiannaram Market",
+      "price": 70.14,
+      "notes": ""
+    }
+  ]
+}
